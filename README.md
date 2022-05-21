@@ -1,9 +1,8 @@
-### Hi there 👋
+<p>
+<img src="http://github-readme-stats.vercel.app/api?username=nuyushan&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
+</p>
 
-<!--
-**nuyushan/nuyushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 我是怒羽山
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<br/>
+<img src="http://github-profile-trophy.vercel.app/api?username=nuyushan&theme=flat&column=7" alt="logo" align="center" style="margin: auto;" />
